@@ -36,7 +36,7 @@ const Footer = () => {
         <Row>
           <Col md={2} className="mb-4">
             <img
-              src="../images/swiggy-footer.png"
+              src="src/assets/SwiggyLogo.png"
               alt="Swiggy Logo"
               className="w-50"
             />
